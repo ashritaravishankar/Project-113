@@ -1,0 +1,39 @@
+body{
+
+
+    background:linear-gradient(  to bottom right, beige 75%, rgb(82, 247, 82));
+    border-radius: 50px;
+    border-color:rgb(93, 167, 228);
+    border-style:ridge;
+    border-width: 15px;
+    height:1000px;
+}
+
+
+#heading{
+    color:purple;
+}
+
+#photo_button{
+
+    height:100px;
+    width:120px;
+    border-radius:200px;
+    background-color:rgb(190, 190, 190);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:25px;
+    border-color:black;
+    border-style: solid;
+
+}
+
+#photo_button:hover{
+
+    background-color:grey;
+    color:white;
+    border-color:black;
+    border-style: solid;
+    
+}
+
+
